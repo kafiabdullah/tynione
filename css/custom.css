@@ -1,0 +1,245 @@
+body{
+	font-family: 'PT Sans', sans-serif;
+	margin: 0;
+	padding: 0;
+
+}
+
+/* header */
+header{
+	background: #fcdb00;
+}
+.toggler_color{
+
+}
+.home-menu{
+}
+.home-menu ul{}
+.home-menu ul li{margin: 0px 45px;color: black !important;}
+.home-menu ul li a{
+    color: black !important;
+    font-weight: 400 !important;
+    font-size: 22px;
+}
+
+/* header */
+/* banner */
+.slider{min-height: 500px;background-color: #fcdb00;padding: 15px 0px;}
+.fluid_padding{
+padding: 0 !important;
+}
+.slider_inner{
+min-height: 500px;
+}
+.inner_items{
+min-height: 500px;
+width: 90%;
+margin: 0 auto;
+}
+.slider_text h1{color: #010101;font-size: 32px;font-weight: 600;padding-bottom: 20px;}
+.slider_text{
+margin: auto;
+}
+.slider_text h4{
+    color: #313841;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.slider_text p{
+	color: #555555;
+	font-size: 16px;
+	margin: 0;
+	padding-bottom: 20px;
+}
+.slider_text a{
+	    text-decoration: none;
+    color: black;
+    font-size: 42px;
+    margin: 0 10px;
+}
+.slider_text button{
+border: none;
+background-color: transparent;
+}
+
+.slider_pic{padding: 20px 70px;}
+.slider_pic_inner{
+}
+.slider_pic_inner img{
+}
+.carousel-bottom{
+    padding-bottom: 80px;
+}
+.carousel-bottom ol{}
+.carousel-bottom ol li{
+    color: white;
+    border-radius: 30px !important;
+    height: 15px;
+    width: 15px;
+}
+
+/* banner */
+
+/* feature  section*/
+.feature{padding-top: 120px;padding-bottom: 100px;}
+
+.feature-header{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.feature-header h2{
+    font-size: 32px;
+    color: #020202;
+}
+
+
+.feature-box{
+    position: relative;
+    padding: 0px 70px;
+    padding-bottom: 30px;
+}
+.feature-box a{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-decoration: none;
+    color: black;
+}
+.feature-box h4{
+    font-size: 22px;
+}
+.feature-box p{
+    font-size: 16px;
+    color: #898989;
+}
+.feature-text{
+    text-align: center;
+    padding: 10px 95px;
+}
+.feature-text p{
+    font-size: 20px;
+}
+/* feature section */
+
+/* footer section */
+footer{
+    background: #010101;
+    color: white;
+    padding-top: 30px;
+}
+.footer-header{
+    text-align: center;
+}
+.footer-header h2{
+    color: #fcdb00;
+    font-size: 32px;
+}
+.footer-header p{
+    font-size: 20px;
+    padding: 10px 95px;
+}
+.mail-section{}
+.mail-section button{
+    margin: -74px 0px 0px 70%;
+    border: none;
+    background: #fcdb00;
+    color: black;
+    padding: 10px 10px;
+    font-weight: 600;
+}
+.mail-section input{
+	width: 80%;
+	padding: 10px 0px;
+	border: none;
+	outline: 0;
+}
+.mail-box{
+}
+.form-group{
+    padding: 0px 0px 0px 110px;
+}
+.icon-section{
+    text-align: center;
+}
+.icon-section i{
+    width: 49px;
+}
+.icon-section a{
+    color: black;
+    background: #fcdb00;
+    font-size: 42px;
+    margin: 0 10px;
+}
+.footer-bottom{
+    width: 100%;
+    font-size: 16px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: white;
+}
+
+.footer-box-1{
+    width: 20%;
+    float: left;
+}
+
+.footer-bottom .useful-link{
+    width: 20%;
+    float: left;
+    padding-left: 40px;
+}
+.useful-link ul{}
+.useful-link ul li{
+    list-style: none;
+}
+.useful-link ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+
+.footer-bottom .menu{
+    width: 20%;
+    float: left;
+}
+.menu ul{}
+.menu ul li{
+    list-style: none;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+
+.footer-bottom .download{
+    width: 20%;
+    float: left;
+}
+.download ul{}
+.download ul li{
+    list-style: none;
+}
+.download ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer-bottom .media{
+    width: 20%;
+}
+.media ul{}
+.media ul li{
+    list-style: none;
+}
+.media ul li a{
+    color: white;
+    text-decoration: none;
+}
+.footer-down{
+	background: black;
+	margin-top: -1px;
+}
+ 
+/* footer seciton */
