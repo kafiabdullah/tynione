@@ -237,10 +237,7 @@ height: 100%;
 width: 100%;
 margin-right: auto;
 }
-.slider_pic_inner img {
-height: 100%;
-/* width: 256px; */
-}
+.slider_pic_inner img {height: 100%;width: 100%;}
 .slider_inner {
 padding-bottom: 20px;
 }
