@@ -52,9 +52,7 @@ margin: -74px 0 0 85%;
 padding: 10px 15px;
 }
 .mail-section input{}
-.form-group{
-padding: 0 40px 0px 0px;
-}
+.form-group{padding: 0 40px 0px 0px;}
 .feature-header{}
 .feature-header h2{}
 .feature-text p{
@@ -78,25 +76,17 @@ footer{}
 .footer-header p{
 padding: 0 0;
 }
+.icon-section{
+}
 .icon-section a{
-    margin: 0 3px;
+    margin: 0 2px;
 }
 .facebook{
-padding: 0px 20px;
-border-radius: 10px;
+    padding: 0 15px;
 }
-.twitter{
-padding: 0px 10px;
-border-radius: 10px;
-}
-.google-plus{
-padding: 0px 4px;
-border-radius: 10px;
-}
-.pintarest{
-padding: 0 15px;
-border-radius: 10px;
-}
+.twitter{padding: 0px 5px;border-radius: 10px;}
+.google-plus{border-radius: 10px;padding: 0 0px;}
+.pintarest{padding: 0 12px;border-radius: 10px;}
 }
 @media (min-width: 321px) and (max-width: 412px) {
 .cs-home ul li a {
@@ -194,6 +184,7 @@ footer{}
 .footer-header p{
 padding: 0 0;
 }
+.icon-section{}
 .icon-section a{ 
 text-align: center;
 }
@@ -299,6 +290,7 @@ footer{}
 .footer-header p{
 padding: 0 0;
 }
+.icon-section{}
 .icon-section a{
 text-align: center;
 }
@@ -397,6 +389,7 @@ footer{}
 .footer-header p{
 padding: 0 0;
 }
+.icon-section{}
 .icon-section a{
 text-align: center;
 }
@@ -488,6 +481,7 @@ line-height: 1;
 .feature{
 padding: 30px;
 }
+.icon-section{}
 footer{}
 .footer-header p{
 padding: 0 0;
