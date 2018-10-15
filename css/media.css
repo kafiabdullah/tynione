@@ -80,13 +80,14 @@ padding: 0 0;
 }
 .icon-section a{
     margin: 0 2px;
+    font-size: 35px;
 }
 .facebook{
-    padding: 0 15px;
+    padding: 0 13px;
 }
 .twitter{padding: 0px 5px;border-radius: 10px;}
-.google-plus{border-radius: 10px;padding: 0 0px;}
-.pintarest{padding: 0 12px;border-radius: 10px;}
+.google-plus{border-radius: 10px;padding: 0 1px;}
+.pintarest{padding: 0 10px;border-radius: 10px;}
 }
 @media (min-width: 321px) and (max-width: 412px) {
 .cs-home ul li a {
